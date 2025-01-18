@@ -1,6 +1,6 @@
 # AKS-Wordpress
 
-For secret use:
+For secret use: <br>
 echo -n 'your-password' | base64
 
 Apply the Kubernetes Configurations
